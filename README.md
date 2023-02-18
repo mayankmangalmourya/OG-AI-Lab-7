@@ -8,3 +8,4 @@
 ### Result Shown Noisy image, denoised image and real image
 ![error in mrf2](https://user-images.githubusercontent.com/87426167/219878945-bebf147e-11a3-417a-bd1a-5f73529a22fa.jpg)
 
+![reuslt](https://user-images.githubusercontent.com/87426167/219879141-ddd3c769-11ea-4dbb-a6f8-d7e6a858a11a.jpg)
