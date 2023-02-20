@@ -9,3 +9,10 @@
 ![error in mrf2](https://user-images.githubusercontent.com/87426167/219878945-bebf147e-11a3-417a-bd1a-5f73529a22fa.jpg)
 
 ![reuslt](https://user-images.githubusercontent.com/87426167/219879141-ddd3c769-11ea-4dbb-a6f8-d7e6a858a11a.jpg)
+
+## Hopfield network for error detection in pattern
+![image](https://user-images.githubusercontent.com/87426167/220127457-bb19c905-4d4a-4422-88bd-793c560b8340.png)
+![image](https://user-images.githubusercontent.com/87426167/220127552-7dfa5eff-b306-430f-900f-ff853371a8f6.png)
+## Travel Salesman Problem..
+![image](https://user-images.githubusercontent.com/87426167/220128010-93dcce3a-d947-4487-ab39-79787e745727.png)
+![image](https://user-images.githubusercontent.com/87426167/220128107-101ad8bc-ddaf-4dcf-89b4-7b4b998c471c.png)
